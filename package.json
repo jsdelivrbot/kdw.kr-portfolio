@@ -1,7 +1,7 @@
 {
-  "name": "kdw.kr",
+  "name": "portfolio.kdw.kr",
   "version": "1.0.0",
-  "description": "Kim-Daewoon",
+  "description": "portfolio",
   "author": "kdwkr (Kim-Daewoon)<me@kdw.kr>",
   "private": true,
   "scripts": {
